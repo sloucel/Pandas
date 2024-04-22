@@ -9,4 +9,7 @@ Pushed update from local respository to git hub
   4) Run 'git commit -m "<message>"
   5) Run 'git push'
 
-^6:37PM Saturday, April performed 'git push' to move local code to git hub
+Timelines:
+1) 4:00PM Saturday, April 20th started to code homework assignment
+2) 6:37PM Saturday, April 20th performed 'git push' with completed District Code
+3) 11:29PM Saturday, April 20th performed 'git push' with code up to the School Summary
