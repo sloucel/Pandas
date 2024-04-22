@@ -14,4 +14,5 @@ Timelines:
 2) 6:37PM Saturday, April 20th performed 'git push' with completed District Code
 3) 11:29PM Saturday, April 20th performed 'git push' with code up to the School Summary
 4) 10:00AM Monday, April 22nd performed 'git push' with code for Highest-Performing Schools (by % Overall Passing), Bottom Performing Schools (By % Overall Passing), Math Scores by Grade, and Reading Score by Grade
-5) 11:53 PM Monday, Aprilt 22nd performed 'git push' with bins for score by School Spending
+5) 11:53AM Monday, April 22nd performed 'git push' with bins for score by School Spending
+6) 12:37AM Monday, April 22nd performed 'git push' with code for Scores by School Size, and Scores by School Type
